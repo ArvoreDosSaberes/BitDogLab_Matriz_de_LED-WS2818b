@@ -6,7 +6,6 @@
 [![Stars](https://img.shields.io/github/stars/ArvoreDosSaberes/BitDogLab_Matriz_de_LED-WS2818b)](https://github.com/ArvoreDosSaberes/BitDogLab_Matriz_de_LED-WS2818b/stargazers)
 [![Forks](https://img.shields.io/github/forks/ArvoreDosSaberes/BitDogLab_Matriz_de_LED-WS2818b)](https://github.com/ArvoreDosSaberes/BitDogLab_Matriz_de_LED-WS2818b/network/members)
 [![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-brightgreen.svg)]()
-[![HTTPd](https://img.shields.io/badge/Server-HTTPd-orange.svg)]()
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
